@@ -1,45 +1,4 @@
-body {
-  
-}
-
-#banner {
-      width:100%
-}
-  
-.principal{
-        background: #A1B3BF;
- 
-        padding-left: 20px;
-}
-
-.titulo-principal {
-        padding-left: 750px
-}
-
-.titulo-centralizado {
-        text-align: center
-}
-
-p {
-        text-align: center;
-}
-
-#missao {
-      font-size: 20px
-}
-
-em strong {
-       color: #ff0000;
-}
-
-.itens {
-        font-style: italic
-}
-
-.beneficios {
-       background: #ffffff
-       padding: 20px
-         header {
+header {
    background: #5CBF5F;
    padding: 20px 0;
 }
@@ -73,4 +32,3 @@ nav a {
    font-size: 22px;
    text-decoration: none;
 }
-
